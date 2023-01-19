@@ -1,0 +1,9 @@
+İstenilen uygulama, bir zincir marketin satışlarını tahmin etmek. Size verilen veri 3 dosyadan oluşuyor. Bu dosyaların birincisi (stores.csv) her bir şubenin özelliklerini tutuyor. features.csv dosyasında ise her bir hafta için o haftanın koşullarını gösteren bir tablo mevcut. Son olarak ise sales.csv dosyasında hangi şubenin hangi hafta ne kadar satış yaptığı tutuluyor. Sizden istenilen ise başarılı bir şekilde tahmin yapacak bir model çıkartmak.
+
+Projelerinizi değerlendirirken aşağıdaki maddelere dikkat edeceğiz.
+• Veri doğru ve detaylı bir şekilde analiz edilmiş mi?
+• Analiz sonucu anlaşılabilir bir şekilde görselleştirilmiş mi?
+• Veri seti kendi içerisinde doğru ayrılmış mı?
+• Kullanılan model verilen problemi çözmek için doğru mu?
+• Model alternatifleri denenmiş mi?
+• Model sonuçları uygun bir şekilde yorumlanmış mı?
